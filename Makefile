@@ -1,3 +1,3 @@
 test: 
-	laika
+	laika $LAIKA_OPTIONS
 .PHONY: test
