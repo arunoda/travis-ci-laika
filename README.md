@@ -1,7 +1,7 @@
 travis-ci-laika
 =========================
 
-### [Travis CI support for Meteor with Laika](http://meteorhacks.com/travis-ci-support-for-meteor-with-laika.html)
+### [Travis CI support for Meteor with Laika](http://meteorhacks.com/continuos-integration-for-meteor-apps.html)
 
 Add following file to your meteor package as `.travis.yml`
 
@@ -19,4 +19,4 @@ Enable travis support for your project listed there.
 
 ![Travis CI support for Meteor with Laika](http://i.imgur.com/40L2CnU.png)
 
-See [here](http://meteorhacks.com/travis-ci-support-for-meteor-with-laika.html) for more information
+See [here](http://meteorhacks.com/continuos-integration-for-meteor-apps.html) for more information
